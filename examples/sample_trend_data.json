@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Model Context Protocol (MCP) TypeScript SDK v1.2",
+    "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+    "category": "ai_automation",
+    "sources": ["GitHub", "HackerNews", "X/Twitter"],
+    "score_breakdown": {
+      "total_score": 94,
+      "recency": 15,
+      "cross_platform": 15,
+      "growth_velocity": 14,
+      "developer_interest": 9,
+      "search_momentum": 8,
+      "github_momentum": 10,
+      "social_engagement": 5,
+      "official_confirmation": 5,
+      "real_world_adoption": 5,
+      "business_impact": 5,
+      "hype_score": 55,
+      "practical_value": 96
+    },
+    "status": "🔥 Exploding",
+    "delta_s": 18,
+    "acceleration": 7,
+    "first_seen": "2026-09-04",
+    "what_happened": "Official v1.2 release providing native streaming tool responses and multi-agent resource discovery protocols.",
+    "why_trending": "Developers are standardizing on MCP as the unified interface connecting AI models with local developer tools and APIs.",
+    "why_care": "Allows building interoperable agent plugins without vendor lock-in to OpenAI or Anthropic proprietary formats.",
+    "what_to_build": "Turn any existing database or REST API into an instant MCP tool server.",
+    "learning_priority": "🔥 Must Learn Now"
+  },
+  {
+    "title": "Telegram Bot API 7.9: Stars Subscriptions & Digital Invoicing",
+    "url": "https://core.telegram.org/bots/api-changelog",
+    "category": "telegram_bots",
+    "sources": ["Official Docs", "Reddit (r/Telegram)", "GitHub"],
+    "score_breakdown": {
+      "total_score": 91,
+      "recency": 14,
+      "cross_platform": 12,
+      "growth_velocity": 13,
+      "developer_interest": 9,
+      "search_momentum": 9,
+      "github_momentum": 8,
+      "social_engagement": 4,
+      "official_confirmation": 5,
+      "real_world_adoption": 5,
+      "business_impact": 5,
+      "hype_score": 40,
+      "practical_value": 94
+    },
+    "status": "🚀 Rising",
+    "delta_s": 12,
+    "acceleration": 4,
+    "first_seen": "2026-09-03",
+    "what_happened": "Telegram expanded Stars to support recurring monthly subscriptions and instant refunds for digital products directly inside Mini Apps.",
+    "why_trending": "Unlocks true SaaS business models for Telegram bot builders without traditional Stripe payment friction.",
+    "why_care": "Direct access to monetize 950M+ Telegram users with single-click payment confirmation.",
+    "what_to_build": "Micro-SaaS or course community bot charging monthly subscription fees in Telegram Stars.",
+    "learning_priority": "🔥 Must Learn Now"
+  }
+]
